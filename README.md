@@ -1,16 +1,11 @@
-# crud
+Flutter Crud (Consulta List, Update, Delete)
 
-A new Flutter project.
+"http: ^0.13.3"
 
-## Getting Started
+sdk: ">=2.12.0 <3.0.0"
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/53713690/120028871-ae643080-bfcb-11eb-8a28-12d0b53c8ddc.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/53713690/120028894-b7ed9880-bfcb-11eb-899d-3d63ba3bdcbc.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/53713690/120028998-dce20b80-bfcb-11eb-8b2b-a48cf1538657.png)
